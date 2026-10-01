@@ -1,0 +1,5 @@
+[
+  {"id":"r-security","description":"Third-party app cybersecurity audit","amount":120,"currency":"USD"},
+  {"id":"r-infra","description":"Yearly cloud hosting service","amount":120,"currency":"USD"},
+  {"id":"r-clean","description":"Office janitorial cleaning","amount":50,"currency":"USD"}
+]

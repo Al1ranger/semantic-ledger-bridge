@@ -1,0 +1,5 @@
+[
+  {"id":"l-host","description":"Annual hosted compute subscription","amount":120,"currency":"USD"},
+  {"id":"l-audit","description":"External security assessment for application","amount":120,"currency":"USD"},
+  {"id":"l-lunch","description":"Team lunch catering","amount":50,"currency":"USD"}
+]
